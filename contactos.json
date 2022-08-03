@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nombre": "felipe",
+    "apellido": "costa",
+    "direccion": "lamaroca 3421",
+    "tel": 94375643
+  },
+  {
+    "id": 2,
+    "nombre": "santiago",
+    "apellido": "quinoa",
+    "direccion": "fintusa 3420",
+    "tel": 92385413
+  },
+  {
+    "id": 3,
+    "nombre": "agustin",
+    "apellido": "costa",
+    "direccion": "lamaroca 3421",
+    "tel": 94373443
+  }
+
+]
